@@ -8,7 +8,7 @@ It displays my work, services, and skills in a modern and responsive design.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![s1](screenshots/s3.PNGs1.png)
+![s1](screenshots/s1.png)
 
 ### ℹ️ About Me
 ![s2](screenshots/s2.png)
