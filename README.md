@@ -8,22 +8,25 @@ It displays my work, services, and skills in a modern and responsive design.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots\s1.PNG)
+![s1](screenshots/s3.PNGs1.png)
 
 ### ℹ️ About Me
-![About Me](screenshots\s2.PNG)
+![s2](screenshots/s2.png)
 
 ### 🛠️ Services
-![Services](screenshots\s3.PNG)
+![s3](screenshots/s3.png)
 
 ### 🎨 Portfolio
-![Portfolio](screenshots\s4.PNG)
+![s4](screenshots/s4.png)
 
 ###  Experiences
-![Experiences](screenshots\s5.PNG)
+![s5](screenshots/s5.png)
 
 ### Contact 
-![Contact](screenshots\s6.PNG),(screenshots\s7.PNG)
+![s6](screenshots/s6.png)
+
+###
+![s7](screenshots/s7.png)
 
 ---
 
