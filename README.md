@@ -17,7 +17,7 @@ It displays my work, services, and skills in a modern and responsive design.
 ![s3](screenshots/s3.PNG)
 
 ### 🎨 Portfolio
-![s4](screenshots/s4.PNG)
+![s4](screenshots\s4.png)
 
 ###  Experiences
 ![s5](screenshots/s5.PNG)
